@@ -304,13 +304,6 @@ Para garantir que a chave não seja interceptada.
 | **SQLite** | - | Banco de dados (desenvolvimento) |
 | **Python** | 3.14+ | Linguagem de programação |
 
----
-
-## 📝 Licença
-
-MIT License - Sinta-se livre para usar este projeto em seu portfólio!
-
----
 
 ## 🎯 Conclusão
 
@@ -322,9 +315,3 @@ Este projeto demonstra:
 - ✅ **Validação de Dados** - Serializers do DRF
 - ✅ **UUID** - Identificadores únicos seguros
 - ✅ **Tratamento de Erros** - Responses consistentes
-
-É um excelente projeto para portfólio porque mostra compreensão de problemas reais em sistemas distribuídos!
-
----
-
-*Desenvolvido com ❤️ usando Django e Django REST Framework*
